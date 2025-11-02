@@ -1,5 +1,6 @@
 # GitHub-User-Activity
-
+Project Page URL - [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+***
 A command-line tool to fetch and display recent public activity for any GitHub user. This script utilizes the GitHub Events API to retrieve data and presents it in a clean, formatted table in your terminal.
 
 ## Features
